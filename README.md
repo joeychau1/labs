@@ -1,9 +1,5 @@
 # /labs
 
-**Table of Contents**
-
-[TOC]
-
 ------------
 ### Welcome to Joey&apos;s labs.
 This is where I commit my laboratory experiments. :information_desk_person:
